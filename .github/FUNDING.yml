@@ -11,5 +11,7 @@ issuehunt: # Replace with a single IssueHunt username
 lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
 polar: # Replace with a single Polar username
 buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['sponsor1', 'lsponsor22', 'sponsor333', 'lsponsor4444']
 
+github: ['sponsor1', 'lsponsor22', 'sponsor333', 'lsponsor4444']
+custom: ['sponsor1_url', 'lsponsor22_url', 'sponsor333_url', 'lsponsor4444_url']
