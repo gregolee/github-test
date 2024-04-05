@@ -1,0 +1,3 @@
+Protection rule에 적용 받는 branch에서
+Require a pull request before merging 룰이 적용된 branch로 
+pull request 요청테스트를 위해 작성된 문서입니다.
